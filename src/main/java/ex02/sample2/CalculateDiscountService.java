@@ -18,5 +18,4 @@ public class CalculateDiscountService {
     private Customer findCustomer(String customerId) {
         return new Customer();
     }
-
 }
